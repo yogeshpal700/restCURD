@@ -28,7 +28,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 public class Flight {
 	
 	@Id
-	@GeneratedValue
+	@GeneratedValue//hellofgbgfhfgf
 	@Column
 	private int flightId;
 	@Column
